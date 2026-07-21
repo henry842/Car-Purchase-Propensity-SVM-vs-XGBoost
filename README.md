@@ -71,15 +71,15 @@ EDA → Limpeza → Normalização → Modelagem → Comparação → Análise d
 ## 🚀 Como Executar
 
 ```bash
-git clone https://github.com/henry842/CarPurchaseXGBoost.git
-cd CarPurchaseXGBoost
+git clone https://github.com/henry842/Car-Purchase-Propensity-SVM-vs-XGBoost.git
+cd Car-Purchase-Propensity-SVM-vs-XGBoost
 pip install -r requirements.txt
-jupyter notebook car_purchase.ipynb
+jupyter notebook MOD40_EXERCICIO.ipynb
 ```
 
 ---
 
 <div align="center">
-  <a href="https://github.com/henry842">👤 henry842</a> •
-  <a href="https://github.com/henry842?tab=repositories">📂 Outros projetos</a>
+<a href="https://github.com/henry842">👤 henry842</a> •
+<a href="https://github.com/henry842?tab=repositories">📂 Outros projetos</a>
 </div>
