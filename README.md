@@ -75,7 +75,7 @@ Objetivo principal: Comparar SVM e XGBoost para propensao de compra de carros e 
 
 ### Chapter 1 - Data Understanding | Entendimento dos Dados
 
-![Data Understanding | Entendimento dos Dados](assets/readme/project_overview.svg)
+![Data Understanding | Entendimento dos Dados](assets/grafico_01.png)
 
 **EN**
 
@@ -90,6 +90,8 @@ O que a base ou entradas representam, qual e o significado de cada observacao e 
 - PT-BR: A evidencia visual ajuda a conectar o resultado tecnico a uma decisao ou interpretacao concreta.
 
 ### Chapter 2 - Exploratory Analysis | Analise Exploratoria
+
+![Exploratory Analysis | Analise Exploratoria](assets/grafico_02.png)
 
 **EN**
 
